@@ -1,2 +1,2 @@
 # StockFlow
-A simple web-based inventory management system for small businesses, initially focused on restaurants.
+A web-based inventory tracking system, initially focused on restaurants.
